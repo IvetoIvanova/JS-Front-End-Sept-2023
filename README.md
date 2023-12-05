@@ -9,7 +9,7 @@ The project is structured into two main folders:
 
 In this folder, you will find solutions to tasks related to HTML and CSS, organized by the following topics:
 
-- [01_Introduction-to-HTML-and-CSS](./HTML%20%26%20CSS/01_Introduction%20to%20HTML%20and%20CSS)
+- [01_Introduction_to_HTML_and_CSS](./HTML%20%26%20CSS/01_Introduction_to_HTML_and_CSS)
 - [02_Typography-in-CSS](./HTML%20%26%20CSS/02_Typography%20in%20CSS)
 - [03_Box-Model-and-Position](./HTML%20%26%20CSS/03_Box%20Model%20and%20Position)
 - [04_CSS-Layout-Flexbox](./HTML%20%26%20CSS/04_CSS%20Layout%20Flexbox)
