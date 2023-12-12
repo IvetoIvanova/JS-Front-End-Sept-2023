@@ -18,10 +18,3 @@ function calculator(num1, operatorStr, num2) {
 
     console.log(result.toFixed(2));
 }
-
-calculator(5,
-    '+',
-    10);
-calculator(25.5,
-    '-',
-    3);
