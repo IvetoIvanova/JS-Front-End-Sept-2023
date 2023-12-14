@@ -1,7 +1,7 @@
 function listOfNames(list){
     
     list.sort((a,b)=>{
-        return a.localeCompare(b); //return b.localCompare(a);
+        return a.localeCompare(b);
     });
 
     let index = 1;
@@ -9,7 +9,6 @@ function listOfNames(list){
         console.log(`${index}.${name}`);
         index++;
     }
-    // console.log(list);
 }
 
 listOfNames(["John", "Bob", "Christina", "Ema"]);
