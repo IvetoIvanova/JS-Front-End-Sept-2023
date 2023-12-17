@@ -13,7 +13,6 @@ function pointsValidation(pointArray) {
 
     let distance3 = calculateDistance(point1[0], point1[1], point2[0], point2[1]);
 
-    //дали разстоянията са цели числа
     let isValid1 = Number.isInteger(distance1);
     let isValid2 = Number.isInteger(distance2);
     let isValid3 = Number.isInteger(distance3);
