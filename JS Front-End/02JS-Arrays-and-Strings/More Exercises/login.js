@@ -21,3 +21,6 @@ function login(inputArr) {
     }
 }
 
+login(['Acer', 'login', 'go', 'let me in', 'recA']);
+login(['momo', 'omom']);
+login(['sunny', 'rainy', 'cloudy', 'sunny', 'not sunny']);
